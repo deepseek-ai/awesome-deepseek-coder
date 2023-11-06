@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000px" alt="Awesome DeepSeek Coder" src="Awesome DeepSeek Coder.png">
+<img width="1000px" alt="Awesome DeepSeek Coder" src="Awesome_DeepSeek_Coder.png">
 </p>
 
 # awesome-deepseek-coder ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![CI](https://github.com/formulahendry/awesome-gpt/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/formulahendry/awesome-gpt/actions/workflows/main.yml)
