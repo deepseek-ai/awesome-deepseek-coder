@@ -33,9 +33,9 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 | **33B**    | [deepseek-coder-33B-base-AWQ](https://huggingface.co/TheBloke/deepseek-coder-33B-base-AWQ) <br> [deepseek-coder-33B-base-GGUF](https://huggingface.co/TheBloke/deepseek-coder-33B-base-GGUF) <br> [deepseek-coder-33B-base-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-33B-base-GPTQ) | [deepseek-coder-33B-instruct-AWQ](https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-AWQ) <br> [deepseek-coder-33B-instruct-GGUF](https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF) <br> [deepseek-coder-33B-instruct-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GPTQ) |
 
 ### Copilot
-[Tabby](https://github.com/TabbyML/tabby) is a self-hosted, open-source AI coding assistant, serving as an alternative to GitHub Copilot. Tabby's recent leaderboard reveals DeepSeekCoder-6.7B as the top performer in code completion (https://leaderboard.tabbyml.com/).
+[Tabby](https://github.com/TabbyML/tabby), a self-hosted and open-source AI coding assistant, presents itself as a formidable alternative to GitHub Copilot. Its latest leaderboard showcases deepseek-coder-6.7B as the top performer in code completion (https://leaderboard.tabbyml.com/).  Dive in and explore the robust code completion features of DeepSeek Coder with Tabby [(link)](https://tabby.tabbyml.com/docs/models/).
 <p align="center">
-<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.png">
+<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.jpg">
 </p>
 
 ### APIs
