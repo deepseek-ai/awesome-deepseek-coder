@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000px" alt="Awesome DeepSeek Coder" src="Awesome_DeepSeek_Coder.png">
+<img width="1000px" alt="Awesome DeepSeek Coder" src="images/Awesome_DeepSeek_Coder.png">
 </p>
 
 # awesome-deepseek-coder ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
@@ -31,6 +31,12 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 | **5.7B**   | [deepseek-coder-5.7bmqa-base-AWQ](https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-AWQ) <br> [deepseek-coder-5.7bmqa-base-GGUF](https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF) <br> [deepseek-coder-5.7bmqa-base-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GPTQ) | [deepseek-coder-5.7bmqa-instruct-AWQ](https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-instruct-AWQ)(coming soon) <br> [deepseek-coder-5.7bmqa-instruct-GGUF](https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-instruct-GGUF)(coming soon) <br> [deepseek-coder-5.7bmqa-instruct-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-instruct-GPTQ)(coming soon) |
 | **6.7B**   | [deepseek-coder-6.7B-base-AWQ](https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-AWQ) <br> [deepseek-coder-6.7B-base-GGUF](https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF) <br> [deepseek-coder-6.7B-base-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GPTQ) | [deepseek-coder-6.7B-instruct-AWQ](https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-AWQ) <br> [deepseek-coder-6.7B-instruct-GGUF](https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF) <br> [deepseek-coder-6.7B-instruct-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GPTQ) |
 | **33B**    | [deepseek-coder-33B-base-AWQ](https://huggingface.co/TheBloke/deepseek-coder-33B-base-AWQ) <br> [deepseek-coder-33B-base-GGUF](https://huggingface.co/TheBloke/deepseek-coder-33B-base-GGUF) <br> [deepseek-coder-33B-base-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-33B-base-GPTQ) | [deepseek-coder-33B-instruct-AWQ](https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-AWQ) <br> [deepseek-coder-33B-instruct-GGUF](https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF) <br> [deepseek-coder-33B-instruct-GPTQ](https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GPTQ) |
+
+### Copilot
+[Tabby](https://github.com/TabbyML/tabby) is a self-hosted, open-source AI coding assistant, serving as an alternative to GitHub Copilot. Tabby's recent leaderboard reveals DeepSeekCoder-6.7B as the top performer in code completion (https://leaderboard.tabbyml.com/).
+<p align="center">
+<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.png">
+</p>
 
 ### APIs
 - [limcheekin/deepseek-coder-6.7B-instruct-GGUF](https://huggingface.co/spaces/limcheekin/deepseek-coder-6.7B-instruct-GGUF): limcheekin provides API for `deepseek-coder-6.7B-instruct-GGUF` model.
