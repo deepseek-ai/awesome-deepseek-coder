@@ -41,6 +41,15 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 ### APIs
 - [limcheekin/deepseek-coder-6.7B-instruct-GGUF](https://huggingface.co/spaces/limcheekin/deepseek-coder-6.7B-instruct-GGUF): limcheekin provides API for `deepseek-coder-6.7B-instruct-GGUF` model.
 
+
+### Others
+  -  [DeepSeek-7B-chat FastApi 部署调用](https://github.com/datawhalechina/self-llm/blob/master/DeepSeek/01-DeepSeek-7B-chat%20FastApi.md) @ 不要葱姜蒜
+  -  [DeepSeek-7B-chat langchain 接入](https://github.com/datawhalechina/self-llm/blob/master/DeepSeek/02-DeepSeek-7B-chat%20langchain.md) @ 不要葱姜蒜
+  -  [DeepSeek-7B-chat WebDemo](https://github.com/datawhalechina/self-llm/blob/master/DeepSeek/03-DeepSeek-7B-chat%20WebDemo.md) @ 不要葱姜蒜
+  -  [DeepSeek-7B-chat Lora 微调](https://github.com/datawhalechina/self-llm/blob/master/DeepSeek/04-DeepSeek-7B-chat%20Lora%20微调.md) @ 不要葱姜蒜
+  -  [DeepSeek-7B-chat 4bits量化 Qlora 微调](https://github.com/datawhalechina/self-llm/blob/master/DeepSeek/05-DeepSeek-7B-chat%204bits量化%20Qlora%20微调.md) @ 不要葱姜蒜
+
+
 ## Contributing
 Excited to see the awesome stuff you guys will create with DeepSeek Coder!
 
