@@ -21,6 +21,12 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 
 ## Community Resources
 
+### Models built upon DeepSeek Coder
+- [Magicoder-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-DS-6.7B)
+- [Magicoder-S-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B)
+- [WizardCoder-33B-V1.1](https://huggingface.co/WizardLM/WizardCoder-33B-V1.1)
+
+
 ### Quantized Models 
 
 - [TheBloke](https://huggingface.co/TheBloke) - TheBloke develops AWQ/GGUF/GPTQ format model files for DeepSeek's Deepseek Coder 1B/7B/33B models.
