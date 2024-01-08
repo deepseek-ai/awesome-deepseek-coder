@@ -44,7 +44,7 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 <img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.jpg">
 </p>
 
-[🧙‍AutoDev](https://github.com/unit-mesh/auto-dev): The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! It already support `DeepSeek 6.7B`.
+[🧙‍AutoDev](https://github.com/unit-mesh/auto-dev): The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! It already supports `DeepSeek 6.7B`.
 
 
 ### APIs
