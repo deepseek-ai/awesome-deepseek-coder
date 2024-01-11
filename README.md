@@ -44,8 +44,7 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 <img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.jpg">
 </p>
 
-[🧙‍AutoDev](https://github.com/unit-mesh/auto-dev): The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! It already supports `DeepSeek 6.7B`.
-
+[🧙‍AutoDev](https://github.com/unit-mesh/auto-dev), an open-source JetBrains' IDE AI coding assistant. It provide Deepseek 6.7b finetune data tools by [Unit Eval](https://github.com/unit-mesh/unit-eval), related to AutoDev prompts' [datasets](https://huggingface.co/datasets/unit-mesh/unit-eval-completion) and [finetuned model](https://huggingface.co/unit-mesh/autodev-deepseek-6.7b-finetunes), and [API server example](https://github.com/unit-mesh/unit-eval/blob/master/finetunes/deepseek/api-server-python38.py)
 
 ### APIs
 - [limcheekin/deepseek-coder-6.7B-instruct-GGUF](https://huggingface.co/spaces/limcheekin/deepseek-coder-6.7B-instruct-GGUF): limcheekin provides API for `deepseek-coder-6.7B-instruct-GGUF` model.
