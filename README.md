@@ -25,6 +25,7 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 - [Magicoder-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-DS-6.7B)
 - [Magicoder-S-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B)
 - [WizardCoder-33B-V1.1](https://huggingface.co/WizardLM/WizardCoder-33B-V1.1)
+- [CodeFuse-DeepSeek-33B](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B)
 
 
 ### Quantized Models 
