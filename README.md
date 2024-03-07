@@ -2,6 +2,9 @@
 <img width="1000px" alt="Awesome DeepSeek Coder" src="images/Awesome_DeepSeek_Coder.png">
 </p>
 
+📚 [English] | [中文](https://github.com/deepseek-ai/awesome-deepseek-coder/blob/main/README_CN.md)
+<br> 
+
 # awesome-deepseek-coder ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of open-source projects related to DeepSeek Coder.
