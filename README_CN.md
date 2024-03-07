@@ -52,7 +52,7 @@
 
 👉 [Tabby](https://github.com/TabbyML/tabby)<br>开源、自托管的 AI 编码助手，是 GitHub Copilot 的有力替代品。 可以在 Tabby 上深入探索 DeepSeek Coder 强大的代码补全功能✨ [(link)](https://tabby.tabbyml.com/docs/models/)。<br>其最新排行榜显示 deepseek-coder-6.7B 在代码完成方面表现最佳 (https://leaderboard.tabbyml.com/).  
 <p align="center">
-<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.jpg">
+<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.png">
 </p>
 
 👉 [🧙‍AutoDev](https://github.com/unit-mesh/auto-dev) <br> 开源的AI辅助编程工具，可以与Jetbrains系列IDE无缝集成。 它提供 Deepseek Coder 6.7B 微调数据工具[Unit Eval](https://github.com/unit-mesh/unit-eval), 与 AutoDev 提示相关的 [datasets](https://huggingface.co/datasets/unit-mesh/unit-eval-completion) 和 [finetuned model](https://huggingface.co/unit-mesh/autodev-deepseek-6.7b-finetunes), 以及 [API server example](https://github.com/unit-mesh/unit-eval/blob/master/finetunes/deepseek/api-server-python38.py)
