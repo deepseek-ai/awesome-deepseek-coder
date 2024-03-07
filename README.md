@@ -44,7 +44,7 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 
 [Tabby](https://github.com/TabbyML/tabby), a self-hosted and open-source AI coding assistant, presents itself as a formidable alternative to GitHub Copilot. Its latest leaderboard showcases deepseek-coder-6.7B as the top performer in code completion (https://leaderboard.tabbyml.com/).  Dive in and explore the robust code completion features of DeepSeek Coder with Tabby [(link)](https://tabby.tabbyml.com/docs/models/).
 <p align="center">
-<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.jpg">
+<img width="500px" alt="Tabby-Leaderboard" src="images/Tabby-Leaderboard.png">
 </p>
 
 [🧙‍AutoDev](https://github.com/unit-mesh/auto-dev), an open-source JetBrains' IDE AI coding assistant. It provide Deepseek 6.7b finetune data tools by [Unit Eval](https://github.com/unit-mesh/unit-eval), related to AutoDev prompts' [datasets](https://huggingface.co/datasets/unit-mesh/unit-eval-completion) and [finetuned model](https://huggingface.co/unit-mesh/autodev-deepseek-6.7b-finetunes), and [API server example](https://github.com/unit-mesh/unit-eval/blob/master/finetunes/deepseek/api-server-python38.py)
