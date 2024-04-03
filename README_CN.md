@@ -31,10 +31,13 @@
 <br> 
 ## 社区生态资源
 ### 基于 DeepSeek Coder 训练的模型
-- [Magicoder-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-DS-6.7B)
-- [Magicoder-S-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B)
-- [WizardCoder-33B-V1.1](https://huggingface.co/WizardLM/WizardCoder-33B-V1.1)
-- [CodeFuse-DeepSeek-33B](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B)
+
+| Model Size | Models | 
+|------------|------|
+| **1.3B**        | [OpenCodeInterpreter-DS-1.3B](https://huggingface.co/m-a-p/OpenCodeInterpreter-DS-1.3B) |
+| **6.7B**       | [Magicoder-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-DS-6.7B) <br> [Magicoder-S-DS-6.7B](https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B) <br> [OpenCodeInterpreter-DS-6.7B](https://huggingface.co/m-a-p/OpenCodeInterpreter-DS-6.7B) <br> [openbuddy-deepseekcoder-6b-v16.1-32k](https://huggingface.co/OpenBuddy/openbuddy-deepseekcoder-6b-v16.1-32k) | 
+| **33B**         | [WizardCoder-33B-V1.1](https://huggingface.co/WizardLM/WizardCoder-33B-V1.1) <br> [CodeFuse-DeepSeek-33B](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B) <br> [OpenCodeInterpreter-DS-33B](https://huggingface.co/m-a-p/OpenCodeInterpreter-DS-33B) <br> [openbuddy-deepseekcoder-33b-v16.1-32k](https://huggingface.co/OpenBuddy/openbuddy-deepseekcoder-33b-v16.1-32k)| 
+
 
 ### 量化模型 
 
