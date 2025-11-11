@@ -10,7 +10,7 @@
 A curated list of open-source projects related to DeepSeek Coder.
 
 ## Chat with DeepSeek Coder
-Chat Website: [coder.deepseek.com](https://coder.deepseek.com/)
+Chat Website: [chat.deepseek.com](https://chat.deepseek.com/)
 
 ## Official Resources
 ### Released Models
