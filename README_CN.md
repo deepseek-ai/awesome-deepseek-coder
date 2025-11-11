@@ -11,7 +11,7 @@
 <br> <br>
 
 ## 快速体验 DeepSeek Coder
-👉直达官网内测页面  [coder.deepseek.com](https://coder.deepseek.com/)
+👉直达官网内测页面  [chat.deepseek.com](https://chat.deepseek.com/)
 <br> <br>
 ## 官方资源
 ### 已发布的模型
