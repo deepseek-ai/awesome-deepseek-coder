@@ -55,6 +55,7 @@ All models are available on Hugging Face: [huggingface.co/deepseek-ai](https://h
 
 ### APIs
 - [limcheekin/deepseek-coder-6.7B-instruct-GGUF](https://huggingface.co/spaces/limcheekin/deepseek-coder-6.7B-instruct-GGUF): limcheekin provides API for `deepseek-coder-6.7B-instruct-GGUF` model.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Contributing
 Excited to see the awesome stuff you guys will create with DeepSeek Coder!
